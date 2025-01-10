@@ -1,3 +1,6 @@
 #EXTM3U
 #EXTINF:-1,Radio Renome
 http://5.9.25.50:9316/
+
+#EXTINF:-1,Radio Dux 
+http://radiodux.me:8000/radiodux?1715117703872
