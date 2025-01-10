@@ -1,15 +1,3 @@
 #EXTM3U
 #EXTINF:-1,Radio Renome
 http://5.9.25.50:9316/
-
-#EXTINF:-1,Radio Bravo 
-http://80.77.157.10:8000
-
-#EXTINF:-1,Radio 106 
-http://stream.zemi.mk:8003/1
-
-#EXTINF:-1,Kiss FM Radio 
-http://chandra.shoutca.st:10000/index.html?sid=1
-
-
-
